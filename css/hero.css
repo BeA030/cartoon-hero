@@ -1,0 +1,79 @@
+body{
+	margin: 0;
+	background-color: #FEB66C;
+	font-family: Arial;
+	color: white;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	text-align: center;
+	background-color: #E39544;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+h1, h2{
+	font-family: 'Gloria Hallelujah', cursive;
+	color: white;
+}
+
+header h1{
+	color: #6E5030;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 50px;
+	}
+
+header #FirstLink{  
+	color: #6E5030;
+}
+
+header img{
+	border-radius: 55px;
+	border-inline: 5px;
+	border-color: #B12C01;
+	box-shadow: 5px 5px 8px 5px #B12C01
+}
+
+main {
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 20px 20px;
+}
+
+main img {
+	max-width: 100%;
+}
+
+h2{
+	font-size: 30px;
+	margin: 40px 0 15px;
+}
+
+a{
+	color: white;
+}
+
+a:hover{
+	color: darkred;
+	background-color: white;
+}
+
+img{
+	border-radius: 55px;
+	border-inline: 5px;
+	border-color: #B12C01;
+	box-shadow: 5px 5px 8px 5px #B12C01
+}
+
+footer{
+	background-color: #E39544;
+	text-align: center;
+	font-size: 13px;
+	padding: 50px;
+}
+
+footer p{
+margin: 0;
+}
